@@ -89,7 +89,7 @@ const Top_main = () => {
                 </div>
                 <div id="unique-hover-button__div">
                   <span>
-                    <p>call us +1(313) 355-3295</p>
+                    <p className='hidethis'>call us +1(313) 355-3295</p>
                   </span>
                 </div>
               </div>

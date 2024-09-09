@@ -8,7 +8,7 @@ const Button_top = () => {
       <div className="hover-button__div">
       <Link className='link' to={'/quote-pricing'}><span>Let's Get Started</span></Link>
       </div>
-      <div className="hover-button__div">
+      <div className="hover-button__div hidethis">
         <Link className='link' to={'/quote-pricing'}><span>Let's Get Started</span></Link>
       </div>
     </button>
